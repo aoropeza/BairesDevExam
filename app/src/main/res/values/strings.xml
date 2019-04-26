@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BairesDevExam</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="ok">Ok</string>
+
+    <string name="option_1">Google</string>
+    <string name="option_2">Buttons</string>
+    <string name="option_3">Kotlin</string>
+
+    <string name="show_toast">Show toast</string>
+    <string name="show_alert">Show alert</string>
+
+    <string name="show_toast_message">I\'m a toast</string>
+    <string name="show_alert_message">I\'m an alert</string>
+
+    <string name="gnral_error">Something went wrong, please try again</string>
+    <string name="network_error">You need an internet connection, please, try again.</string>
+    <string name="wait">"Please Wait..."</string>
+</resources>
